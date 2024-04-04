@@ -11,7 +11,7 @@ import java.util.Set;
  * WordFinder is a class which is used to find all 9 letters words which after reducing them with single character are
  * also valid until we end with either I or A letters.
  * <br>
- * <a href="">Link to GitHub project</a>
+ * <a href="https://github.com/vasilev02/nine-letter-puzzle">Link to GitHub project</a>
  * @author Valentin Vasilev
  * @version 1.0
  */
