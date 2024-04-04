@@ -27,6 +27,10 @@
 * Valid single-letter words are 'I' and 'A'.
 * The task must be optimized for speed. If a word is valid for one combination of letter removals, it is not necessary to check if it would be valid if other letters were removed.
 
+## Console result
+<img width="700" alt="Screenshot 2024-04-04 at 10 25 20" src="https://github.com/vasilev02/nine-letter-puzzle/assets/59262958/d17c9785-6ce6-4a60-91d0-87e98598a0bd">
+
+
 
 ## Connect with me
 
